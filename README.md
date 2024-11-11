@@ -85,4 +85,4 @@ Se você tem sugestões, melhorias ou encontrou algum erro, fique à vontade par
 
 ## 📄 Licença
 
-Este projeto está licenciado sob a **MIT License** - veja o arquivo **LICENSE** para mais detalhes.
+Este projeto está licenciado sob a **EPL-2.0 license** - veja o arquivo **LICENSE** para mais detalhes.
